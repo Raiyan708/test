@@ -1,5 +1,0 @@
-{{#user}}
-Name: Muhammad Raiyan
-Skills: HTML, CSS, JS, Next.js, React.js, Node.js, Solidity, TypeScript
-Email: raiyan7080@gmail.com
-{{/user}}
